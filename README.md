@@ -1,2 +1,4 @@
-# advertisement-management-system
-This Project is on Advertisement Management System
+# Advertisement Management System on Django
+
+This project was created by Pavan and Rukmanand on Advertisement Management System DB project 
+
